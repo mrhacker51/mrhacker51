@@ -4,9 +4,9 @@ title: Hakkımda
 subtitle: Yeni Bilgiler Ögrenmeye Ne Dersin ? 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
+Herkese merhaba 2 yıldır siber güvenlik alanı ile ilgileniyorum . İnsanlara elimden geldigi kadar yardımcı olmaya çalışıyorum ve ögrendiklerimi paylaşmayı seviyorum.
+Çocuklugumdan itibaren bilgisayara düşkünlügüm hep vardı.Ayrıca kod yazmayı seven bir yapıya sahibim.
+- 
 - I'm extremely loyal to my family
 
 What else do you need?
