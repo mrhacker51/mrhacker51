@@ -6,11 +6,13 @@ subtitle: Yeni Bilgiler Ögrenmeye Ne Dersin ?
 
 Herkese merhaba 2 yıldır siber güvenlik alanı ile ilgileniyorum . İnsanlara elimden geldigi kadar yardımcı olmaya çalışıyorum ve ögrendiklerimi paylaşmayı seviyorum.
 Çocuklugumdan itibaren bilgisayara düşkünlügüm hep vardı.Ayrıca kod yazmayı seven bir yapıya sahibim.
-- 
-- I'm extremely loyal to my family
+Blogum'da paylaşıcagım bilgi sahibi oldugum kategorileri aşagıda yazıyorum.
 
-What else do you need?
+- Buffer Overflow / Binary Exploitation
+- Web
+- Crypto
+- Osint
+- Forensic
+- Stegonagrafi
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Capture The Flag yarışmalarını seven arkadaşlara veya yeni başlayacak arkadaşları'n blog'umu güncel olarak takip etmesini tavsiye ederim :)
