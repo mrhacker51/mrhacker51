@@ -7,12 +7,12 @@ title: My CTF Challenge Website
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: mrhacker51
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "ss"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
