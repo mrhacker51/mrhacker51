@@ -12,7 +12,7 @@ author: mrhacker51
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "ss"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
